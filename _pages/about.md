@@ -1,50 +1,73 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San Jose, California). I completed my Ph.D. in Computer Science from the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst in May 2022, where I was co-advised by [Prof. Andrew McGregor](https://people.cs.umass.edu/~mcgregor/) and [Prof. Cameron Musco](https://people.cs.umass.edu/~cmusco/). I received [Dissertation Writing Fellowship](https://www.cics.umass.edu/news/bonab-addanki-awarded-college-s-dissertation-writing-fellowships) for my Ph.D. thesis. I was a visiting student in the [Causality program](https://simons.berkeley.edu/programs/Causality2022) at the Simons Institute for the Theory of Computing, Berkelely in 2022. Prior to this, I completed B.Tech. and M.Tech. (dual degree) in Computer Science from [IIT Madras](https://www.cse.iitm.ac.in/) in 2016.
 
-Create content & metadata
+**Contact Email:** raddanki AT adobe.com
+
+Research Interests
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I am broadly interested in the design and analysis of algorithms for data science, causal inference, theoretical computer science, and machine learning. During my Ph.D., among other things, I have worked on identifying new connections between combinatorial optimization and causal inference.
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Publications <font size=2>(author ordering for the papers below is alphabetical unless marked *)</font> 
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- **Sample Constrained Treatment Effect Estimation**
+  <br> Raghavendra Addanki, David Arbour, Tung Mai, Cameron Musco, and Anup Rao
+   <br> Adaptive Experimental Design and Active Learning in the Real World (ReALML) workshop, International Conference on Machine Learning (ICML) 2022.
+  <br>[[proceedings]()]
+  
+- **Non-Adaptive Edge Counting and Sampling via Bipartite Independent Set Queries**
+<br> Raghavendra Addanki, Andrew McGregor, and Cameron Musco
+<br> European Symposium on Algorithms (ESA) 2022.
+<br> [[arXiv]()]
+  
+- **Improved Approximation and Scalability for Fair Max-Min Diversification**
+<br> Raghavendra Addanki, Andrew McGregor, Alexandra Meliou, and Zafeiria Moumoulidou
+<br> International Conference on Database Theory (ICDT) 2022.
+<br> [[arXiv](https://arxiv.org/abs/2201.06678), [proceedings](https://drops.dagstuhl.de/opus/volltexte/2022/15881/pdf/LIPIcs-ICDT-2022-7.pdf)]
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+ - **Collaborative Causal Discovery with Atomic Interventions**
+<br> Raghavendra Addanki, Shiva Prasad Kasiviswanathan
+<br> Conference on Neural Information Processing Systems (NeurIPS) 2021.
+<br> [[arXiv](https://arxiv.org/abs/2106.03028), [proceedings](https://papers.nips.cc/paper/2021/hash/6a1a681b16826ba2e48fedb229db3b65-Abstract.html)][[12 min video at NeurIPS](https://slideslive.com/38968274)]
 
-For more info
+- **Intervention Efficient Algorithms for Approximate Learning of Causal Graphs**
+<br> Raghavendra Addanki, Andrew McGregor, and Cameron Musco
+<br> International Conference on Algorithmic Learning Theory (ALT) 2021.
+<br> [[arXiv](https://arxiv.org/abs/2012.13976), [proceedings](https://proceedings.mlr.press/v132/addanki21a.html)][[1hr video at MIT](https://www.youtube.com/watch?v=7UbGv3qtNSA), [12 min video at ALT](https://www.youtube.com/watch?v=inAVnFzMJT0)]
+
+- **How to Design Robust Algorithms using Noisy Comparison Oracle**
+<br> Raghavendra Addanki, Sainyam Galhotra, and Barna Saha
+<br> International Conference on Very Large Data Bases (VLDB) 2021.
+<br> [[arXiv](https://arxiv.org/abs/2105.05782), [proceedings](http://www.vldb.org/pvldb/vol14/p1703-galhotra.pdf)]
+
+- **Efficient Intervention Design for Causal Discovery with Latents**
+		<br>	Raghavendra Addanki, Shiva Prasad Kasiviswanathan, Andrew McGregor, and Cameron Musco
+		<br>	International Conference on Machine Learning (ICML) 2020.
+		<br>	[[arXiv](https://arxiv.org/abs/2005.11736), [proceedings](https://proceedings.mlr.press/v119/addanki20a)][[15 min video at ICML](https://slideslive.com/38927624), [1 hr video at NUS](https://www.youtube.com/watch?v=BKi199W-Quo)]
+		
+- **Search Result Diversification with Guarantee of Topic Proportionality***
+			<br> Sheikh Muhammad Sarwar, Raghavendra Addanki, Ali Montazeralghaem, Soumyabrata Pal, and James Allan
+			<br> International Conference on the Theory of Information Retrieval (ICTIR) 2020.
+      <br> [[proceedings](https://dl.acm.org/doi/10.1145/3409256.3409839)]
+      
+- **Dynamic Set Cover: Improved Algorithms and Lower Bounds**
+		<br> Amir Abboud, Raghavendra Addanki, Fabrizio Grandoni, Debmalya Panigrahi, and Barna Saha
+		<br> Symposium on Theory of Computing (STOC) 2019.
+		<br> [[proceedings](https://dl.acm.org/doi/10.1145/3313276.3316376)]
+
+- **Embed as you need: Evaluation of Random Walk and Poincare Embeddings for Healthcare Tasks***
+			<br> Khushbu Agarwal, Tome Eftimov, Raghavendra Addanki, Sutanay Choudhury, Suzanne Tamang, and Robert Rallo
+			<br> Workshop on Applied Data Science for Healthcare, Knowledge Discovery and Data Mining (KDD) 2019.
+			<br> [[arXiv](https://arxiv.org/abs/1907.08650)]
+
+Miscellaneous
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[Theoretical Computer Science group](http://groups.cs.umass.edu/theory/) at UMass Amherst. There is a weekly theory seminar every semester -- if you are interested in giving a talk, please let one of the [organizers](https://groups.cs.umass.edu/theory/theory-seminar/) know.
