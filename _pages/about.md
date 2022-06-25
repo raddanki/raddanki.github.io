@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 ------
 I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San Jose, California). I completed my Ph.D. in Computer Science from the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst in May 2022, where I was co-advised by [Prof. Andrew McGregor](https://people.cs.umass.edu/~mcgregor/) and [Prof. Cameron Musco](https://people.cs.umass.edu/~cmusco/). I received [Dissertation Writing Fellowship](https://www.cics.umass.edu/news/bonab-addanki-awarded-college-s-dissertation-writing-fellowships) for my Ph.D. thesis. I was a visiting student in the [Causality program](https://simons.berkeley.edu/programs/Causality2022) at the Simons Institute for the Theory of Computing, Berkelely in 2022. Prior to this, I completed B.Tech. and M.Tech. (dual degree) in Computer Science from [IIT Madras](https://www.cse.iitm.ac.in/) in 2016.
 
