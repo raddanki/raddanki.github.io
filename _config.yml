@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Raghavendra Addanki"
   avatar           : "profile.png"
-  bio              : 
+  bio              : " "
   location         : "San Jose, CA"
   employer         :
   pubmed           : 
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "raddanki"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/raghavendra-addanki-3a0b1b77/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
