@@ -5,6 +5,14 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
 
     <div class="page__footer">
       <footer>
