@@ -21,7 +21,7 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 - **Sample Constrained Treatment Effect Estimation**
   <br> Raghavendra Addanki, David Arbour, Tung Mai, Cameron Musco, and Anup Rao
    <br> Adaptive Experimental Design and Active Learning in the Real World (ReALML) workshop, International Conference on Machine Learning (ICML) 2022.
-  <br>[[proceedings]()]
+  <br>[[pdf](https://realworldml.github.io/files/cr/paper6.pdf)]
   
 - **Non-Adaptive Edge Counting and Sampling via Bipartite Independent Set Queries**
 <br> Raghavendra Addanki, Andrew McGregor, and Cameron Musco
