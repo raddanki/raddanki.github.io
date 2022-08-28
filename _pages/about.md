@@ -12,6 +12,8 @@ I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San 
 
 **Contact Email:** raddanki AT adobe.com
 
+**Internships:** *If you are a PhD student looking for summer internship opportunities at Adobe, please send me an email with your research interests.*
+
 Research Interests
 ------
 I am broadly interested in the design and analysis of algorithms for data science, causal inference, theoretical computer science, and machine learning. During my Ph.D., among other things, I have worked on identifying new connections between combinatorial optimization and causal inference.
