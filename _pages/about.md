@@ -12,7 +12,7 @@ I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San 
 
 **Contact Email:** raddanki AT adobe.com
 
-**Internships:** *If you are a PhD student looking for summer internship opportunities at Adobe, please send me an email with your research interests.*
+**Internships:** *If you are a PhD student looking for internship opportunities at Adobe, please send me an email with your research interests.*
 
 Research Interests
 ------
