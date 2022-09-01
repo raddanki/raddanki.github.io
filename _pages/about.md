@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San Jose, California). I completed my Ph.D. in Computer Science from the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst in May 2022, where I was co-advised by [Prof. Andrew McGregor](https://people.cs.umass.edu/~mcgregor/) and [Prof. Cameron Musco](https://people.cs.umass.edu/~cmusco/). I received [Dissertation Writing Fellowship](https://www.cics.umass.edu/news/bonab-addanki-awarded-college-s-dissertation-writing-fellowships) for my Ph.D. thesis. I was a visiting student in the [Causality program](https://simons.berkeley.edu/programs/Causality2022) at the Simons Institute for the Theory of Computing, Berkelely in 2022. Prior to this, I completed B.Tech. and M.Tech. (dual degree) in Computer Science from [IIT Madras](https://www.cse.iitm.ac.in/) in 2016.
+I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San Jose, California). I completed my Ph.D. in Computer Science from the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst in May 2022, where I was co-advised by [Prof. Andrew McGregor](https://people.cs.umass.edu/~mcgregor/) and [Prof. Cameron Musco](https://people.cs.umass.edu/~cmusco/). I received a [Dissertation Writing Fellowship](https://www.cics.umass.edu/news/bonab-addanki-awarded-college-s-dissertation-writing-fellowships) for my Ph.D. thesis. I was a visiting student in the [Causality program](https://simons.berkeley.edu/programs/Causality2022) at the Simons Institute for the Theory of Computing, Berkelely in 2022. Prior to this, I completed my Bachelors and Masters degrees (dual degree) in Computer Science from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) in 2016.
 
 **Contact Email:** raddanki AT adobe.com
 
-**Internships:** *If you are a PhD student looking for internship opportunities at Adobe, please send me an email with your research interests.*
+**Internships:** *If you are a PhD student looking for internship opportunities in theory or causal inference, please send me an email with your research interests.*
 
 Research Interests
 ------
