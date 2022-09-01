@@ -28,7 +28,7 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 - **Non-Adaptive Edge Counting and Sampling via Bipartite Independent Set Queries**
 <br> Raghavendra Addanki, Andrew McGregor, and Cameron Musco
 <br> European Symposium on Algorithms (ESA) 2022.
-<br> [[arXiv](https://arxiv.org/abs/2207.02817)]
+<br> [[arXiv](https://arxiv.org/abs/2207.02817), [proceedings](https://drops.dagstuhl.de/opus/volltexte/2022/16940/)]
   
 - **Improved Approximation and Scalability for Fair Max-Min Diversification**
 <br> Raghavendra Addanki, Andrew McGregor, Alexandra Meliou, and Zafeiria Moumoulidou
