@@ -23,7 +23,7 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 - **Sample Constrained Treatment Effect Estimation**
   <br> Raghavendra Addanki, David Arbour, Tung Mai, Cameron Musco, and Anup Rao
    <br> Conference on Neural Information Processing Systems (NeurIPS) 2022.
-  <br>[[pdf](https://realworldml.github.io/files/cr/paper6.pdf)]
+  <br>[[arXiv](https://arxiv.org/abs/2210.06594)]
   
 - **Non-Adaptive Edge Counting and Sampling via Bipartite Independent Set Queries**
 <br> Raghavendra Addanki, Andrew McGregor, and Cameron Musco
