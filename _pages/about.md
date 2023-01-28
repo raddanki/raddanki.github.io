@@ -20,7 +20,7 @@ I am broadly interested in the design and analysis of algorithms for data scienc
 
 Publications <font size=2>(author ordering for the papers below is alphabetical unless marked *)</font> 
 ------
-- **Anytime-Valid Confidence Sequences in an Enterprise A/B Testing Platform**
+- **Anytime-Valid Confidence Sequences in an Enterprise A/B Testing Platform***
   <br> Akash Maharaj, Ritwik Sinha, David Arbour, Ian Waudby-Smith, Simon Liu, Moumita Sinha, Raghavendra Addanki, Aaditya Ramdas, Manas Garg and Viswanathan Swaminathan
    <br> ACM Web Conference (WWW), Industry Track, 2023.
    <br> [arXiv]
