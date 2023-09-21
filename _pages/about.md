@@ -20,10 +20,14 @@ I am broadly interested in the design and analysis of algorithms for data scienc
 
 Publications <font size=2>(author ordering for the papers below is alphabetical unless marked *)</font> 
 ------
+- **Causal Discovery in Semi-Stationary Time Series***
+  <br> Shanyun Gao, Raghavendra Addanki, Tong Yu, Ryan A. Rossi, and Murat Kocaoglu
+  <br> Neural Information Processing Systems (NeurIPS) 2023.
+
 - **Anytime-Valid Confidence Sequences in an Enterprise A/B Testing Platform***
   <br> Akash Maharaj, Ritwik Sinha, David Arbour, Ian Waudby-Smith, Simon Liu, Moumita Sinha, Raghavendra Addanki, Aaditya Ramdas, Manas Garg and Viswanathan Swaminathan
    <br> ACM Web Conference (WWW), Industry Track, 2023.
-   <br> [[arXiv](https://arxiv.org/abs/2302.10108)]
+   <br> [[arXiv](https://arxiv.org/abs/2302.10108), [proceedings] ()]
   
 - **Sample Constrained Treatment Effect Estimation**
   <br> Raghavendra Addanki, David Arbour, Tung Mai, Cameron Musco, and Anup Rao
