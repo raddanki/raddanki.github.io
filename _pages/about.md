@@ -16,7 +16,7 @@ I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San 
 
 Research Interests
 ------
-I am broadly interested in the design and analysis of algorithms for data science, causal inference, theoretical computer science, and machine learning. During my Ph.D., among other things, I have worked on identifying new connections between combinatorial optimization and causal inference.
+I am broadly interested in the design and analysis of algorithms for data science, causal inference, theoretical computer science, and machine learning. During my Ph.D., among other things, I have worked on [identifying new connections](https://scholarworks.umass.edu/dissertations_2/2587/) between combinatorial optimization and causal inference.
 
 Publications <font size=2>(author ordering for the papers below is alphabetical unless marked *)</font> 
 ------
