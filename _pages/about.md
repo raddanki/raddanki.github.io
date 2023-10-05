@@ -12,7 +12,7 @@ I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San 
 
 **Contact Email:** raddanki AT adobe.com
 
-**Internships:** *If you are a Ph.D. student looking for internship opportunities for Summer 2024 in theoretical computer science or causal inference, please send me an email with your research interests in Sept 2023.*
+**Internships:** *If you are a Ph.D. student looking for internship opportunities for Summer 2024 in theoretical computer science or causal inference, please send me an email with your research interests and apply [here](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2024-Intern--Research-Scientist-Engineer_R141275).*
 
 Research Interests
 ------
