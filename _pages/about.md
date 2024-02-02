@@ -12,7 +12,8 @@ I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San 
 
 **Contact Email:** raddanki AT adobe.com
 
-**Internships:** *If you are a Ph.D. student looking for internship opportunities for Summer 2024 in theoretical computer science or causal inference, please send me an email with your research interests and apply [here](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2024-Intern--Research-Scientist-Engineer_R141275).*
+<!---**Internships:** *If you are a Ph.D. student looking for internship opportunities for Summer 2024 in theoretical computer science or causal inference, please send me an email with your research interests and apply [here](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2024-Intern--Research-Scientist-Engineer_R141275).*
+--->
 
 Research Interests
 ------
@@ -20,10 +21,20 @@ I am broadly interested in the design and analysis of algorithms for data scienc
 
 Publications <font size=2>(author ordering for the papers below is alphabetical unless marked *)</font> 
 ------
+- **Continuous Treatment Effects with Surrogate Outcomes**
+  <br> Zhenghao Zeng, David Arbour, Avi Feller, Raghavendra Addanki, Ryan
+  Rossi, Ritwik Sinha, and Edward H. Kennedy
+  <br>[[arXiv](https://arxiv.org/abs/2402.00168)]
+  
+- **One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**
+  <br>Raghavendra Addanki, Chenyang Li, Zhao Song, Chiwun Yang
+  <br>[[arXiv](https://arxiv.org/abs/2311.14652)]
+  
 - **Causal Discovery in Semi-Stationary Time Series***
   <br> Shanyun Gao, Raghavendra Addanki, Tong Yu, Ryan A. Rossi, and Murat Kocaoglu
   <br> Neural Information Processing Systems (NeurIPS) 2023.
    <br> [[proceedings](https://openreview.net/pdf?id=dYeUvLUxBQ)]
+  
 - **Anytime-Valid Confidence Sequences in an Enterprise A/B Testing Platform***
   <br> Akash Maharaj, Ritwik Sinha, David Arbour, Ian Waudby-Smith, Simon Liu, Moumita Sinha, Raghavendra Addanki, Aaditya Ramdas, Manas Garg and Viswanathan Swaminathan
    <br> ACM Web Conference (WWW), Industry Track, 2023.
