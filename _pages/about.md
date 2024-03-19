@@ -23,7 +23,7 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 ------
 - **Limits of Approximating the Median Treatment Effect**
 <br> Raghavendra Addanki and Siddharth Bhandari 
- <br>[[arXiv]()]
+ <br>[[arXiv](https://arxiv.org/abs/2403.10618)]
 
 - **Continuous Treatment Effects with Surrogate Outcomes***
   <br> Zhenghao Zeng, David Arbour, Avi Feller, Raghavendra Addanki, Ryan
