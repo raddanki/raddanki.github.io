@@ -28,6 +28,7 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 - **Continuous Treatment Effects with Surrogate Outcomes***
   <br> Zhenghao Zeng, David Arbour, Avi Feller, Raghavendra Addanki, Ryan
   Rossi, Ritwik Sinha, and Edward H. Kennedy
+  <br>	International Conference on Machine Learning (ICML) 2024.
   <br>[[arXiv](https://arxiv.org/abs/2402.00168)]
   
 - **One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**
