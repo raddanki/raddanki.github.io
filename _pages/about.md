@@ -35,11 +35,15 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 - **One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**
   <br>Raghavendra Addanki, Chenyang Li, Zhao Song, Chiwun Yang
   <br>[[arXiv](https://arxiv.org/abs/2311.14652)]
+
+- **Parameter-Efficient Fine-Tuning via Partially Decomposable Loss Analysis and Sharing**
+  <br>Raghavendra Addanki, Ritwik Sinha, Zhao Song, Yizhou Wang, Lichen Zhang
+  <br>[[pdf](https://openreview.net/pdf?id=4WZNdnwmhk)]
   
 - **Causal Discovery in Semi-Stationary Time Series***
   <br> Shanyun Gao, Raghavendra Addanki, Tong Yu, Ryan A. Rossi, and Murat Kocaoglu
   <br> Neural Information Processing Systems (NeurIPS) 2023.
-   <br> [[proceedings](https://openreview.net/pdf?id=dYeUvLUxBQ)]
+  <br> [[proceedings](https://openreview.net/pdf?id=dYeUvLUxBQ)]
   
 - **Anytime-Valid Confidence Sequences in an Enterprise A/B Testing Platform***
   <br> Akash Maharaj, Ritwik Sinha, David Arbour, Ian Waudby-Smith, Simon Liu, Moumita Sinha, Raghavendra Addanki, Aaditya Ramdas, Manas Garg and Viswanathan Swaminathan
