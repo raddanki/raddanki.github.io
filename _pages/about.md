@@ -22,7 +22,8 @@ I am broadly interested in the design and analysis of algorithms for data scienc
 Publications <font size=2>(author ordering for the papers below is alphabetical unless marked *)</font> 
 ------
 - **Limits of Approximating the Median Treatment Effect**
-<br> Raghavendra Addanki and Siddharth Bhandari 
+<br> Raghavendra Addanki and Siddharth Bhandari
+<br>	Conference on Learning Theory (COLT) 2024.
  <br>[[arXiv](https://arxiv.org/abs/2403.10618)]
 
 - **Continuous Treatment Effects with Surrogate Outcomes***
