@@ -24,13 +24,16 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 - **Limits of Approximating the Median Treatment Effect**
 <br> Raghavendra Addanki and Siddharth Bhandari
 <br>	Conference on Learning Theory (COLT) 2024.
- <br>[[arXiv](https://arxiv.org/abs/2403.10618)]
+ <br>[[arXiv](https://arxiv.org/abs/2403.10618), [proceedings](https://proceedings.mlr.press/v247/addanki24a.html)]
 
 - **Continuous Treatment Effects with Surrogate Outcomes***
-  <br> Zhenghao Zeng, David Arbour, Avi Feller, Raghavendra Addanki, Ryan
-  Rossi, Ritwik Sinha, and Edward H. Kennedy
+  <br> Zhenghao Zeng, David Arbour, Avi Feller, Raghavendra Addanki, Ryan Rossi, Ritwik Sinha, and Edward H. Kennedy
   <br>	International Conference on Machine Learning (ICML) 2024.
   <br>[[arXiv](https://arxiv.org/abs/2402.00168)]
+
+- **Causal Discovery-Driven Change Point Detection in Time Series***
+  <br> Shanyun Gao, Raghavendra Addanki, Tong Yu, Ryan A. Rossi, and Murat Kocaoglu
+  <br> [[arXiv](https://arxiv.org/abs/2407.07290)]
   
 - **One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**
   <br>Raghavendra Addanki, Chenyang Li, Zhao Song, Chiwun Yang
@@ -43,7 +46,7 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 - **Causal Discovery in Semi-Stationary Time Series***
   <br> Shanyun Gao, Raghavendra Addanki, Tong Yu, Ryan A. Rossi, and Murat Kocaoglu
   <br> Neural Information Processing Systems (NeurIPS) 2023.
-  <br> [[proceedings](https://openreview.net/pdf?id=dYeUvLUxBQ)]
+  <br> [[arXiv](https://arxiv.org/abs/2407.07291), [proceedings](https://openreview.net/pdf?id=dYeUvLUxBQ)]
   
 - **Anytime-Valid Confidence Sequences in an Enterprise A/B Testing Platform***
   <br> Akash Maharaj, Ritwik Sinha, David Arbour, Ian Waudby-Smith, Simon Liu, Moumita Sinha, Raghavendra Addanki, Aaditya Ramdas, Manas Garg and Viswanathan Swaminathan
