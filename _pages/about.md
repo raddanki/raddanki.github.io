@@ -12,7 +12,7 @@ I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San 
 
 **Contact Email:** raddanki AT adobe.com
 
-**Internships:** If you are a Ph.D. student looking for internship opportunities for Summer 2025, please send me an email with your research interests. 
+**Internships:** If you are a Ph.D. student looking for internship opportunities for Summer 2025, please apply [here](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Research-Scientist-Engineer_R150692) and send me an email with your research interests. 
 
 
 Research Interests
