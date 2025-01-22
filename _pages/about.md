@@ -25,6 +25,18 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
   <br> Shanyun Gao, Raghavendra Addanki, Tong Yu, Ryan A. Rossi, and Murat Kocaoglu
   <br> International Conference on Artificial Intelligence and Statistics (AISTATS) 2025.
   <br> [[arXiv](https://arxiv.org/abs/2407.07290)]
+
+- **EigenLoRA: Recycle trained Adapters for Resource Efficient Adaptation and Inference***
+  <br>Prakhar Kaushik, Aayush Mishra, Ankit Vaidya, Raghavendra Addanki, Ryan A. Rossi, Ani Nenkova, Anqi Liu, Alan Yuille, and Jiuxiang Gu
+  <br>[[pdf](https://openreview.net/pdf?id=KxGGZag9gW)]
+  
+- **One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**
+  <br>Raghavendra Addanki, Chenyang Li, Zhao Song, Chiwun Yang
+  <br>[[arXiv](https://arxiv.org/abs/2311.14652)]
+
+- **Parameter-Efficient Fine-Tuning via Partially Decomposable Loss Analysis and Sharing**
+  <br>Raghavendra Addanki, Ritwik Sinha, Zhao Song, Yizhou Wang, Lichen Zhang
+  <br>[[pdf](https://openreview.net/pdf?id=4WZNdnwmhk)]
   
 - **Limits of Approximating the Median Treatment Effect**
 <br> Raghavendra Addanki and Siddharth Bhandari
@@ -34,15 +46,7 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 - **Continuous Treatment Effects with Surrogate Outcomes***
   <br> Zhenghao Zeng, David Arbour, Avi Feller, Raghavendra Addanki, Ryan Rossi, Ritwik Sinha, and Edward H. Kennedy
   <br>	International Conference on Machine Learning (ICML) 2024.
-  <br>[[arXiv](https://arxiv.org/abs/2402.00168)]
-  
-- **One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**
-  <br>Raghavendra Addanki, Chenyang Li, Zhao Song, Chiwun Yang
-  <br>[[arXiv](https://arxiv.org/abs/2311.14652)]
-
-- **Parameter-Efficient Fine-Tuning via Partially Decomposable Loss Analysis and Sharing**
-  <br>Raghavendra Addanki, Ritwik Sinha, Zhao Song, Yizhou Wang, Lichen Zhang
-  <br>[[pdf](https://openreview.net/pdf?id=4WZNdnwmhk)]
+  <br>[[arXiv](https://arxiv.org/abs/2402.00168), [proceedings](https://proceedings.mlr.press/v235/zeng24a.html)]
   
 - **Causal Discovery in Semi-Stationary Time Series***
   <br> Shanyun Gao, Raghavendra Addanki, Tong Yu, Ryan A. Rossi, and Murat Kocaoglu
