@@ -21,6 +21,11 @@ I am broadly interested in the design and analysis of algorithms for data scienc
 
 Publications <font size=2>(author ordering for the papers below is alphabetical unless marked *)</font> 
 ------
+- **Causal Discovery-Driven Change Point Detection in Time Series***
+  <br> Shanyun Gao, Raghavendra Addanki, Tong Yu, Ryan A. Rossi, and Murat Kocaoglu
+  <br> International Conference on Artificial Intelligence and Statistics (AISTATS) 2025.
+  <br> [[arXiv](https://arxiv.org/abs/2407.07290)]
+  
 - **Limits of Approximating the Median Treatment Effect**
 <br> Raghavendra Addanki and Siddharth Bhandari
 <br>	Conference on Learning Theory (COLT) 2024.
@@ -30,10 +35,6 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
   <br> Zhenghao Zeng, David Arbour, Avi Feller, Raghavendra Addanki, Ryan Rossi, Ritwik Sinha, and Edward H. Kennedy
   <br>	International Conference on Machine Learning (ICML) 2024.
   <br>[[arXiv](https://arxiv.org/abs/2402.00168)]
-
-- **Causal Discovery-Driven Change Point Detection in Time Series***
-  <br> Shanyun Gao, Raghavendra Addanki, Tong Yu, Ryan A. Rossi, and Murat Kocaoglu
-  <br> [[arXiv](https://arxiv.org/abs/2407.07290)]
   
 - **One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**
   <br>Raghavendra Addanki, Chenyang Li, Zhao Song, Chiwun Yang
