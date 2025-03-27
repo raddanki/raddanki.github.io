@@ -12,7 +12,7 @@ I am a Research Scientist at [Adobe Research](https://research.adobe.com/) (San 
 
 **Contact Email:** raddanki AT adobe.com
 
-**Internships:** If you are a Ph.D. student looking for internship opportunities for Summer 2025, please apply [here](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Research-Scientist-Engineer_R150692) and send me an email with your research interests. 
+<!-- **Internships:** If you are a Ph.D. student looking for internship opportunities for Summer 2025, please apply [here](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Research-Scientist-Engineer_R150692) and send me an email with your research interests. !-->
 
 
 Research Interests
@@ -28,7 +28,7 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 
 - **EigenLoRA: Recycle trained Adapters for Resource Efficient Adaptation and Inference***
   <br>Prakhar Kaushik, Aayush Mishra, Ankit Vaidya, Raghavendra Addanki, Ryan A. Rossi, Ani Nenkova, Anqi Liu, Alan Yuille, and Jiuxiang Gu
-  <br>[[pdf](https://openreview.net/pdf?id=KxGGZag9gW)]
+  <br>[[pdf](https://openreview.net/forum?id=KxGGZag9gW)]
   
 - **One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**
   <br>Raghavendra Addanki, Chenyang Li, Zhao Song, Chiwun Yang
@@ -36,7 +36,7 @@ Publications <font size=2>(author ordering for the papers below is alphabetical 
 
 - **Parameter-Efficient Fine-Tuning via Partially Decomposable Loss Analysis and Sharing**
   <br>Raghavendra Addanki, Ritwik Sinha, Zhao Song, Yizhou Wang, Lichen Zhang
-  <br>[[pdf](https://openreview.net/pdf?id=4WZNdnwmhk)]
+  <br>[[pdf](https://openreview.net/forum?id=4WZNdnwmhk)]
   
 - **Limits of Approximating the Median Treatment Effect**
 <br> Raghavendra Addanki and Siddharth Bhandari
