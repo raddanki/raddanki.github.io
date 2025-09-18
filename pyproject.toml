@@ -1,0 +1,9 @@
+[project]
+name = "raddanki-github-io"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "pandas>=2.3.2",
+]
